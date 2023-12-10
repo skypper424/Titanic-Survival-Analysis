@@ -1,4 +1,3 @@
-Conclusions
 
 After a deep analysis into the titanic data we have come to certain conclusions upon the survival point of the sinking:
 
